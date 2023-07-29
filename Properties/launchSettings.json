@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LittleAPIStresser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Temp\\code.txt\" 5"
+    }
+  }
+}
